@@ -6,58 +6,10 @@
       "Name": "Shrimp Rave",
       "Date": "2025-12-13",
       "Status": "Confirmed",
-      "Local Link": [
-        "recrVBgJO5vNRt0Co",
-        "recinq9jHSsLVRykz",
-        "recyQQt5Vfsw830e1",
-        "recLTDxEpesN7okBi",
-        "recKsoyY25ICOyKw3"
-      ],
-      "Vendor Link": [
-        "reciekuNmzEW3lo4g"
-      ],
-      "Task Count": 9,
-      "Tasks": [
-        "recTvQwO4Emc8KNWR",
-        "recet1COPFqiwLxxe",
-        "reck3NMjiHX962LNo",
-        "recn3tyeLQUWS9C1Y",
-        "recP2sUhwtaKEdQuH",
-        "recXzwpg4kKkuTBQw",
-        "recfAEuvEwMjrbwx0",
-        "reczmbHWEvUIacYwa",
-        "recq9M4MFRqHdZuhm"
-      ],
-      "Completed Task Count": 6,
-      "Completion %": 0.6666666666666666,
-      "Venue Name": [
-        "telos.haus"
-      ],
-      "Local Name": [
-        "JUNTING",
-        "KING",
-        "Nomad",
-        "Reallife",
-        "GSpot"
-      ],
-      "Vendor Name": [
-        "Akira"
-      ],
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Venue Link": [
-        "recJd4cKE61hAxNKo"
-      ]
+      "Venue Name": ["telos.haus"],
+      "Address": "222 Varet St, Brooklyn, NY 11206",
+      "Local Name": ["JUNTING", "KING", "Nomad", "Reallife", "GSpot"],
+      "Vendor Name": ["Akira"]
     }
   },
   {
@@ -67,37 +19,9 @@
       "Name": "LNY (Horse Rave)",
       "Date": "2026-02-13",
       "Status": "Planning",
-      "Artist Link": [
-        "recrVBgJO5vNRt0Co",
-        "recLTDxEpesN7okBi"
-      ],
-      "Task Count": 5,
-      "Tasks": [
-        "recaAISwNS8wdHONR",
-        "reckicKYkrILUfK6r",
-        "recT69hG9TLUxev8a",
-        "recOjgBahy7Rfo8of",
-        "recrTzQzByVSwjTIS"
-      ],
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Artist Name": [
-        "JUNTING",
-        "Reallife"
-      ],
       "Venue Name": ["Loft 39"],
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": "- custom red envelope\n- side quest/mission: I.e talk to someone to get the hint on where to find xyz things (maybe crochet knots made by mel)\n- we should program a scavenger hunt\n",
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
+      "Address": "39-33 29th St, Long Island City, NY 11101",
+      "Artist Name": ["JUNTING", "Reallife"]
     }
   },
   {
@@ -108,30 +32,7 @@
       "Date": "2026-03-28",
       "Status": "Ideation",
       "Venue Name": ["VSHOW"],
-      "Task Count": 7,
-      "Tasks": [
-        "recLL3X23k59vCyVu",
-        "recd9UUg1Vx3QIqMc",
-        "recBrBWJtwjYb9517",
-        "recbZsaAfx8UeEpHw",
-        "reca9OjsKeQbOdwfM",
-        "rec1QllK89CZvJcAR",
-        "recQbpnzcQlD61NFK"
-      ],
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
+      "Address": "33-02 Skillman Ave, Long Island City, NY 11101"
     }
   },
   {
@@ -141,7 +42,8 @@
       "Name": "Mushroom Rave",
       "Date": "2025-10-04",
       "Status": "Confirmed",
-      "Venue Name": ["Bushwick Triangle"]
+      "Venue Name": ["Bushwick Triangle"],
+      "Address": "144 Thames St, Brooklyn, NY 11237"
     }
   }
 ]
