@@ -1,6 +1,7 @@
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
+      {/* Cache bust: v2 */}
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/80 backdrop-blur-sm border-b border-white/10">
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
@@ -103,3 +104,4 @@ export default function Home() {
     </div>
   );
 }
+
