@@ -1,51 +1,5 @@
 [
   {
-    "id": "recFzZq7AVkApLhoH",
-    "createdTime": "2026-01-05T22:22:13.000Z",
-    "fields": {
-      "Name": "4th of July Boat Party/Rooftop",
-      "Date": "2026-07-04",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recQqNUcwMKBiIstb",
-    "createdTime": "2026-01-05T22:19:01.000Z",
-    "fields": {
-      "Name": "AAPI HM Community Showcase/ cinco de mayo combo",
-      "Date": "2026-05-02",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
     "id": "recUpqddfSXNrMody",
     "createdTime": "2025-11-30T19:27:29.000Z",
     "fields": {
@@ -107,62 +61,6 @@
     }
   },
   {
-    "id": "recbxA6630Q0a96bB",
-    "createdTime": "2025-11-30T19:27:29.000Z",
-    "fields": {
-      "Name": "Mandatory Fun (Overtime Rave)",
-      "Date": "2026-03-28",
-      "Status": "Ideation",
-      "Task Count": 7,
-      "Tasks": [
-        "recLL3X23k59vCyVu",
-        "recd9UUg1Vx3QIqMc",
-        "recBrBWJtwjYb9517",
-        "recbZsaAfx8UeEpHw",
-        "reca9OjsKeQbOdwfM",
-        "rec1QllK89CZvJcAR",
-        "recQbpnzcQlD61NFK"
-      ],
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recdHcO2yZHoLk3ly",
-    "createdTime": "2026-01-05T22:19:21.000Z",
-    "fields": {
-      "Name": "outdoors event",
-      "Date": "2026-06-06",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
     "id": "recfirabETauReHsz",
     "createdTime": "2025-11-30T19:27:29.000Z",
     "fields": {
@@ -202,125 +100,22 @@
     }
   },
   {
-    "id": "recljhtj5DJZMX8rg",
-    "createdTime": "2026-01-05T22:23:59.000Z",
+    "id": "recbxA6630Q0a96bB",
+    "createdTime": "2025-11-30T19:27:29.000Z",
     "fields": {
-      "Name": "Atomic Menagerie",
-      "Date": "2026-09-05",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recnlaHOaLFgE4rvU",
-    "createdTime": "2026-01-22T03:20:39.000Z",
-    "fields": {
-      "Name": "Generic Event",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recqUyRLpNLaPZuiI",
-    "createdTime": "2026-01-05T22:22:53.000Z",
-    "fields": {
-      "Name": "Elements (maybe)",
-      "Date": "2026-08-07",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recx6sS2jhbvUytDA",
-    "createdTime": "2026-01-05T22:28:53.000Z",
-    "fields": {
-      "Name": "December",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "recxdDkAYcwiniql0",
-    "createdTime": "2026-01-05T22:25:36.000Z",
-    "fields": {
-      "Name": "Halloween",
-      "Date": "2026-10-31",
-      "Task Count": 0,
-      "Completed Task Count": 0,
-      "Completion %": 0,
-      "Event Summary (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      },
-      "Suggested Next Action (AI)": {
-        "state": "error",
-        "errorType": "emptyDependency",
-        "value": null,
-        "isStale": false
-      }
-    }
-  },
-  {
-    "id": "reczcWpqMtm4dU6J0",
-    "createdTime": "2026-01-05T22:21:34.000Z",
-    "fields": {
-      "Name": "Pregames for big shows at ed's",
-      "Date": "2026-06-01",
-      "Task Count": 0,
+      "Name": "Mandatory Fun (Overtime Rave)",
+      "Date": "2026-03-28",
+      "Status": "Ideation",
+      "Task Count": 7,
+      "Tasks": [
+        "recLL3X23k59vCyVu",
+        "recd9UUg1Vx3QIqMc",
+        "recBrBWJtwjYb9517",
+        "recbZsaAfx8UeEpHw",
+        "reca9OjsKeQbOdwfM",
+        "rec1QllK89CZvJcAR",
+        "recQbpnzcQlD61NFK"
+      ],
       "Completed Task Count": 0,
       "Completion %": 0,
       "Event Summary (AI)": {
