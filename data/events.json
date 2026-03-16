@@ -85,6 +85,7 @@
         "JUNTING",
         "Reallife"
       ],
+      "Venue Name": ["Loft 39"],
       "Event Summary (AI)": {
         "state": "error",
         "errorType": "emptyDependency",
@@ -103,9 +104,10 @@
     "id": "recbxA6630Q0a96bB",
     "createdTime": "2025-11-30T19:27:29.000Z",
     "fields": {
-      "Name": "Mandatory Fun (Overtime Rave)",
+      "Name": "Mandatory Fun",
       "Date": "2026-03-28",
       "Status": "Ideation",
+      "Venue Name": ["VSHOW"],
       "Task Count": 7,
       "Tasks": [
         "recLL3X23k59vCyVu",
